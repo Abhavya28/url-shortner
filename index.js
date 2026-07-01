@@ -1,0 +1,1 @@
+console.log("Hello URL SHORTNER CLI");
